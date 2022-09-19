@@ -1,0 +1,6 @@
+{
+  "importMap": "./importmap.json",
+  "tasks": {
+    "super": "deno run supermodules/github.com/lowops/supermodules/deno/mod.ts"
+  }
+}

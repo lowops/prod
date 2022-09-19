@@ -1,0 +1,9 @@
+[submodule "supermodules/github.com/lowops/like-json"]
+	path = supermodules/github.com/lowops/like-json
+	url = git@github.com:lowops/like-json.git
+[submodule "supermodules/github.com/lowops/like-json-playground"]
+	path = supermodules/github.com/lowops/like-json-playground
+	url = git@github.com:lowops/like-json-playground.git
+[submodule "supermodules/github.com/lowops/supermodules"]
+	path = supermodules/github.com/lowops/supermodules
+	url = git@github.com:lowops/supermodules.git

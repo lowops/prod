@@ -1,2 +1,2 @@
 # dev
-lowops.dev supermodule repo
+lowops.dev supermodules repo
